@@ -85,7 +85,7 @@ nav .header_right .algos button {
   color: white;
   outline: none;
   padding: 5% 0%;
-  font-size: x-large;
+  font-size: 1 em;
 }
 
 nav .header_right .algos button:hover {
